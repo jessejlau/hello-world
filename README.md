@@ -1,2 +1,2 @@
 # hello-world
-the beginning of a fruitful adventure
+Learning GitHub's Pull Request workflow, including understanding GitHub essentials like repositories, branches, commits and Pull Requests
